@@ -10,6 +10,8 @@ public class Main {
 	}
 
 	public void run(Scanner input) {
+		double number1;
+		double number2;
 		String menu = """
 				double number1, number2;
 						Escolha a operação a ser realizada...
